@@ -1,5 +1,6 @@
 population-world-analysis-python:
 Mini projet d'analyse de données sur la population mondiale avec Python
+
  Outils utilisés:
 - Python
 - Pandas
@@ -13,4 +14,4 @@ Mini projet d'analyse de données sur la population mondiale avec Python
 - Nettoyage des données
 - Visualisation Tunisie / Chine / Inde
   
-Mariem Farjallah
+
