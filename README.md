@@ -5,6 +5,8 @@ Mini projet d'analyse de données sur la population mondiale avec Python
 - Pandas
 - NumPy
 - Matplotlib
+
+  
   Analyses réalisées:
 - Top 10 pays les plus peuplés en 2024
 - Top 10 moins peuplés
